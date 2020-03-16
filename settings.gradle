@@ -1,0 +1,8 @@
+/*
+ *
+ *  * Copyright (c) 2018 yeshu. All Rights Reserved.
+ *
+ */
+
+include ':app', ':colorsbar'
+rootProject.name='AndroidCustomWidget'

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  * Copyright (c) 2018 yeshu. All Rights Reserved.
+  ~  */
+  -->
+<resources>
+
+    <color name="color_relax">#ff278DFF</color>
+    <color name="color_normal">#ff00C474</color>
+    <color name="color_medium">#ffFFC100</color>
+    <color name="color_high">#ffFF6000</color>
+</resources>
+

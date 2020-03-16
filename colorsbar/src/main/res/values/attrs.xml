@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  * Copyright (c) 2018 yeshu. All Rights Reserved.
+  ~  */
+  -->
+
+<resources>
+    <declare-styleable name="ColorsBar">
+        <attr name="colors_bar_height" format="dimension" />
+        <attr name="colors_bar_divider_width" format="dimension" />
+        <attr name="colors_bar_divider_color" format="color" />
+        <attr name="colors_bar_text_color" format="color" />
+        <attr name="colors_bar_text_size" format="dimension" />
+        <attr name="colors_bar_text_margin" format="dimension" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ /*
+  ~  * Copyright (c) 2018 yeshu. All Rights Reserved.
+  ~  */
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    tools:context=".MainActivity">
+
+    <work.yeshu.widget.colorsbar.ColorsBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="17dp"
+        android:paddingBottom="10dp"
+        app:colors_bar_divider_color="#ffffff"
+        app:colors_bar_divider_width="1dp"
+        app:colors_bar_height="10dp"
+        app:colors_bar_text_color="#8d8d8d"
+        app:colors_bar_text_margin="0dp"
+        app:colors_bar_text_size="14sp"/>
+
+</LinearLayout>
